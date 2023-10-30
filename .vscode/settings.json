@@ -1,0 +1,21 @@
+{
+  "files.associations": {
+    "algorithm": "cpp",
+    "atomic": "cpp",
+    "charconv": "cpp",
+    "compare": "cpp",
+    "format": "cpp",
+    "limits": "cpp",
+    "memory": "cpp",
+    "ratio": "cpp",
+    "thread": "cpp",
+    "tuple": "cpp",
+    "utility": "cpp",
+    "vector": "cpp",
+    "xlocnum": "cpp",
+    "xloctime": "cpp",
+    "xmemory": "cpp",
+    "xstring": "cpp",
+    "xutility": "cpp"
+  }
+}
